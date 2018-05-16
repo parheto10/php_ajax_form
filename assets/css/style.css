@@ -150,3 +150,7 @@ body {
   border-color: green;
   color: green !important;
 }
+
+.fa-spinner {
+  color: #7047d7;
+}

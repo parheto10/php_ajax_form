@@ -59,6 +59,7 @@
                         </div>
                             <div class="form-group">
                                 <input type="email" id="email" class="form-control" placeholder="Email">
+                                <div class="email-error error"></div>
                             </div>
                             <div class="form-group">
                                 <input type="password" id="password" class="form-control" placeholder="Mot de Passe">
